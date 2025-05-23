@@ -1,0 +1,30 @@
+# Ignore build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+*.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+
+# Ignore user-specific files
+*.userprefs
+
+# Ignore Visual Studio folders
+.vscode/
+.idea/
+bin/  
+obj/ 
